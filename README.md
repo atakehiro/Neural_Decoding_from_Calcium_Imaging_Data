@@ -1,1 +1,0 @@
-# Neural_Decoding_from_Calcium_Imaging_Data
