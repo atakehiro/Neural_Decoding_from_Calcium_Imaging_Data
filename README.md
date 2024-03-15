@@ -39,9 +39,7 @@ ___
 
 ## Publication
 
-End-to-end deep learning approach to mouse behavior classification from cortex-wide calcium imaging
-Takehiro Ajioka, Nobuhiro Nakai, Okito Yamashita, Toru Takumi
-bioRxiv 2023.04.05.535664; doi: https://doi.org/10.1101/2023.04.05.535664
+Ajioka T, Nakai N, Yamashita O, Takumi T. End-to-end deep learning approach to mouse behavior classification from cortex-wide calcium imaging. PLoS Comput Biol. 2024 Mar 13;20(3):e1011074. doi: 10.1371/journal.pcbi.1011074. Epub ahead of print. PMID: 38478563.
 
 ## Author
 Takehiro Ajioka
